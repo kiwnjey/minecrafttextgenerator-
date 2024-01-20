@@ -1,5 +1,5 @@
 Overview
-The Minecraft text generator tool is a simple and engaging web application created using HTML, CSS, and JavaScript. It allows users to input text and transform it into a style reminiscent of the popular game Minecraft. This tool is a great addition for Minecraft fans, similar to other utilities like the Minecraft Circle Generator, which can be found at https://minecraftcirclegenerator.com/. This particular tool is useful for creating perfect circles in a game known for its blocky graphics.
+The Minecraft text generator tool is a simple and engaging web application created using HTML, CSS, and JavaScript. It allows users to input text and transform it into a style reminiscent of the popular game Minecraft. This tool is a great addition for Minecraft fans, similar to other utilities like the Minecraft Circle Generator, which can be found at https://minecraftcirclegenerate.com/. This particular tool is useful for creating perfect circles in a game known for its blocky graphics.
 
 HTML Structure
 The HTML part creates the structure of the web page. It includes an input field for the user to enter text, a button to trigger the generation process, and a container to display the Minecraft-styled text.
